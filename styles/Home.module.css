@@ -17,7 +17,7 @@
 .title {
   color: white;
   font-size: calc(2em + 1vmin);
-  font-weight: bold;
+  font-weight: normal;
   text-align: center;
   padding: 2rem 0;
   margin: 1rem 0;
@@ -27,7 +27,7 @@
 .text {
   max-width: 960px;
   color: white;
-  font-weight: bold;
+  font-weight: normal;
 }
 
 .footer {
@@ -105,6 +105,6 @@
 
 @media screen and (max-width: 600px) {
   .title {
-    font-size: calc(1em + 1vmin)
+    font-size: calc(1.1em + 1.2vmin)
   }
 }
