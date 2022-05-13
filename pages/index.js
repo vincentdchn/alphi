@@ -25,7 +25,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-         On met un truc ici ?
+         On met un truc ici ? Non je sais pas, je demande juste.
       </footer>
     </div>
   )
