@@ -19,8 +19,6 @@
   color: white;
   font-size: calc(0.75em + 1vmin);
   font-weight: normal;
-  padding: 2rem 0;
-  margin: 2rem 0;
   line-height: 1.15;
 }
 
@@ -29,7 +27,7 @@
   font-size: calc(2em + 1vmin);
   font-weight: normal;
   text-align: center;
-  padding: 2rem 0;
+  padding: 1rem 0;
   margin: 1rem 0;
   line-height: 1.15;
 }
