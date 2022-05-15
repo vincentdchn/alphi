@@ -5,9 +5,9 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Note trombinoscopique #102</title>
+        <title>Note trombinoscopique</title>
         <meta name="description" content="Alphi" />
-        <link rel="icon" href="/favicon.ico"/>
+        <link rel="icon" href="/favicon.png"/>
         <link rel="preconnect" href="https://fonts.googleapis.com"/>
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
         <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;700&display=swap" rel="stylesheet" />
@@ -29,7 +29,6 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-         On met un truc ici ? Non je sais pas, je demande juste.
       </footer>
 
     </div>
