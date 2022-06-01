@@ -16,7 +16,7 @@ export default function Home() {
       <main className={styles.main}>
 
           <div className={styles.title2}>
-              <a href="https://youtu.be/ZRiY0CRl_O8" target="_blank">La balle bleue</a>
+              <a href="https://youtu.be/ZRiY0CRl_O8" target="_blank">Aparté</a>
           </div>
 
         <div className={styles.title}>
