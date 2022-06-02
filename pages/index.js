@@ -37,8 +37,8 @@ export default function Home() {
           que vous pouvez écouter. Je trouve ça merveilleux de pouvoir vous transporter où je le souhaite avec simplement deux écouteurs 
           dans vos oreilles. Alors je fais quoi maintenant ? Je continue, j’espère pour le mieux. J’espère qu’Aparté vous aura plu ; je 
           sais que ce projet me plaît à moi, en tout cas. Si vous voulez à votre tour créer un presqu’album - ou même un presqu’single - 
-          alors n’hésitez pas, car je n’ai rien inventé. Et puis moi, je retourne dans ma grotte pour vous fournir le meilleur de moi-même,
-           en espérant qu’il sera à la hauteur. Tchou.
+          alors n’hésitez pas, car je n’ai rien inventé. Et puis moi, je retourne dans ma grotte pour vous fournir le meilleur de moi-même, 
+          en espérant qu’il sera à la hauteur. Tchou.
         </div>
       </main>
 
